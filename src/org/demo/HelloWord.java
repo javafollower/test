@@ -8,6 +8,7 @@ public class HelloWord {
        System.out.println("test3");
        System.out.println("test4");
        System.out.println("test6");
+       System.out.println("test9");
 	}
 
 }
